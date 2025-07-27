@@ -7,7 +7,7 @@ export default config({
   },
   ui: {
     brand: {
-      name: "Astro News",
+      name: "voiture.life",
     },
     navigation: ["---", "articles", "---", "authors", "categories"],
   },
