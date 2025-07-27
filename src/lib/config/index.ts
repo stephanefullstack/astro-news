@@ -1,12 +1,12 @@
 import type { Link } from "../types";
 
 export const SITE = {
-  title: "Astro News",
-  description: "A news website built with Astro",
-  author: "Mohammad Rahmani",
+  title: "Voiture.life",
+  description: "Un site web au sujet des voitures et de l'automobile plus généralement",
+  author: "Stéphane",
   url: "https://astro-news-six.vercel.app",
-  github: "https://github.com/Mrahmani71/astro-news",
-  locale: "en-US",
+  // github: "https://github.com/Mrahmani71/astro-news",
+  locale: "fr-FR",
   dir: "ltr",
   charset: "UTF-8",
   basePath: "/",
